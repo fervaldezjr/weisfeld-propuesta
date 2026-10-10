@@ -1,0 +1,21 @@
+{
+  "name": "Estudio Weisfeld & Asociados",
+  "short_name": "Weisfeld",
+  "lang": "es-AR",
+  "start_url": "/weisfeld-propuesta/",
+  "display": "browser",
+  "background_color": "#fdfdfc",
+  "theme_color": "#1d0b6a",
+  "icons": [
+    {
+      "src": "/weisfeld-propuesta/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/weisfeld-propuesta/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
